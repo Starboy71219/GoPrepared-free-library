@@ -1,0 +1,47 @@
+*{background-color: #333333;}
+
+#about{
+    font-size: 25px;
+    color: lightgray;
+
+}
+mark {
+    font-size: 25px;
+    color: lightgray;
+}
+head{
+    background-image: url("/Applications/Brackets.app/Contents/samples/root/Getting Started/img/GoPrepared-logos_white.png");
+}
+#linki{
+  font-size: 25px;
+  color:blue;
+}
+.navigation{
+  font-size: 20px;
+  color: cyan;
+}
+a{
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #FFCF00;;
+}
+p{
+  font-family:cursive;
+  color: #FFCF00;
+}
+mark{
+  color: #FFCF00;
+}
+a{
+  font-size: 18px;
+  font-family: sans-serif;
+  color: #FFCF00;;
+}
+a:hover{
+  color: hotpink;
+}
+h2{
+  font-family: sans-serif;
+  font-size: 40px;
+  color: #00bfff;
+}
